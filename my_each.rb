@@ -1,4 +1,5 @@
 def my_each(collection)
   counter = 0
-  while 
+  while collection.length > counter
+    
 end
